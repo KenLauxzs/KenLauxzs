@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ken Bryan Dipa
 - 👀 I’m interested in making Ionic-Angular projects
-- 🌱 I’m currently learning Ionic-Angular
+- 🌱 I’m currently a 3rd year Student and still learning Ionic-Angular
 - 💞️ I’m looking to collaborate on someone that need a collab on making Ionic-angular projects
 - 📫 How to reach me: DM me on Facebook https://www.facebook.com/KenLauxzsGaming?
 
