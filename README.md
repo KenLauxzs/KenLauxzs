@@ -1,1 +1,1 @@
-for educational purpose
+for school purposes
