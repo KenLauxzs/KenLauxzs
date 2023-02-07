@@ -1,1 +1,1 @@
-for school purposes
+school projects
